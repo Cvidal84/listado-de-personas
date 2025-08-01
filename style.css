@@ -6,6 +6,7 @@ body {
     flex-direction: column;
     gap: 20px;
     align-items: center;
+    padding-top: 10%;
 }
 .contenedor{
     background-color: bisque;
